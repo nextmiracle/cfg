@@ -1,0 +1,17 @@
+{
+    "apk_key": "10000",
+    "dir": "/我的资源/收藏资源",
+    "enable": false,
+    "records": [
+        {
+            "fs_id": "227946352688232"
+        },
+        {
+            "fs_id": "1034875809498929"
+        },
+        {
+            "fs_id": "613986582980160"
+        }
+    ],
+    "ref": "https://pan.baidu.com/s/1dSqDHUyaMbMCBP3DrUVq-w"
+}
