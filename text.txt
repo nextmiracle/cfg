@@ -1,7 +1,7 @@
 {
     "apk_key": "10000",
     "dir": "/收藏资源",
-    "enable": false,
+    "enable": true,
     "records": [
         {
           "path": "/收藏资源/222",
