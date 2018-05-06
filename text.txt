@@ -1,17 +1,21 @@
 {
     "apk_key": "10000",
-    "dir": "/我的资源/收藏资源",
+    "dir": "/收藏资源",
     "enable": false,
     "records": [
         {
-            "fs_id": "227946352688232"
+          "path": "/收藏资源/222",
+          "len": "1545603",
+          "slice": "b03cea09e78a768466f112a31c37d429",
+          "md5": "f9ccf871321ccc2d1be3dee9f38e4d13",
+          "crc32": "910239611"
         },
         {
-            "fs_id": "1034875809498929"
-        },
-        {
-            "fs_id": "613986582980160"
+          "path": "/收藏资源/kk",
+          "len": "2700747",
+          "slice": "c364fd39c8e7267a008777ef930ff04d",
+          "md5": "5606ded572c583f0ab4a1444463df8ce",
+          "crc32": "3123943405"
         }
-    ],
-    "ref": "https://pan.baidu.com/s/1dSqDHUyaMbMCBP3DrUVq-w"
+    ]
 }
