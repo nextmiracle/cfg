@@ -2,7 +2,7 @@
     "apk_key": "10000",
     "dir": "/收藏资源5",
     "enable": true,
-    "files": [
+    "bd_files": [
         {
           "path": "/收藏资源5/222",
           "len": "1545603",
@@ -16,6 +16,12 @@
           "slice": "c364fd39c8e7267a008777ef930ff04d",
           "md5": "5606ded572c583f0ab4a1444463df8ce",
           "crc32": "3123943405"
+        }
+    ],
+	"apklist": [
+        {
+          "img_u": "https://github.com/nextmiracle/cfg/blob/master/logo.png",
+          "apk_u": "https://github.com/nextmiracle/cfg/blob/master/example-debug.apk",
         }
     ]
 }
