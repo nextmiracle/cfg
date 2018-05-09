@@ -2,7 +2,7 @@
     "apk_key": "10000",
     "dir": "/收藏资源5",
     "enable": true,
-    "records": [
+    "files": [
         {
           "path": "/收藏资源5/222",
           "len": "1545603",
