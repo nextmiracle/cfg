@@ -21,7 +21,7 @@
 	"apklist": [
         {
           "img_u": "https://github.com/nextmiracle/cfg/blob/master/logo.png",
-          "apk_u": "https://github.com/nextmiracle/cfg/blob/master/example-debug.apk",
+          "apk_u": "https://github.com/nextmiracle/cfg/blob/master/example-debug.apk"
         }
     ]
 }
