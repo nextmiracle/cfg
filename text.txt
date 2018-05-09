@@ -20,7 +20,7 @@
     ],
 	"apklist": [
         {
-          "img_u": "https://raw.githubusercontent.com/nextmiracle/cfg/master/logo.png",
+          "img_u": "http://p1.hwm6b6.cn/p1/wn/shgjsynh.apk",
           "apk_u": ""
         }
     ]
