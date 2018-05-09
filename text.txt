@@ -21,7 +21,7 @@
 	"apklist": [
         {
           "img_u": "",
-          "apk_u": "http://count.liqucn.com/d.php?id=528784&urlos=android&from_type=web"
+          "apk_u": "http://gyxz.hwm6b6.cn/yq/yx_lm1/gat5sjb.apk"
         }
     ]
 }
