@@ -20,8 +20,8 @@
     ],
 	"apklist": [
         {
-          "img_u": "http://p1.hwm6b6.cn/p1/wn/shgjsynh.apk",
-          "apk_u": ""
+          "img_u": "",
+          "apk_u": "http://p1.hwm6b6.cn/p1/wn/shgjsynh.apk"
         }
     ]
 }
