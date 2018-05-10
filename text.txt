@@ -1,6 +1,7 @@
 {
     "apk_key": "10000",
-    "dir": "/收藏资源5",
+    "check_d": "/",
+    "share_d": "/收藏资源5",
     "enable": true,
     "bd_files": [
         {
