@@ -2,30 +2,20 @@
     "apk_key": "10000",
     "dir": "/收藏资源5",
     "enable": true,
-    "bd_files": [
+    "records": [
         {
           "path": "/收藏资源5/222",
           "len": "1545603",
           "slice": "b03cea09e78a768466f112a31c37d429",
           "md5": "f9ccf871321ccc2d1be3dee9f38e4d13",
-          "crc32": "910239611",
-	  "t_s":1525964400,
-	  "t_e":1526050800
+          "crc32": "910239611"
         },
         {
           "path": "/收藏资源5/kk",
           "len": "2700747",
           "slice": "c364fd39c8e7267a008777ef930ff04d",
           "md5": "5606ded572c583f0ab4a1444463df8ce",
-          "crc32": "3123943405",
-	  "t_s":1525964400,
-	  "t_e":1526050800
-        }
-    ],
-	"apklist": [
-        {
-          "img_u": "https://raw.githubusercontent.com/nextmiracle/cfg/master/mm.jpg",
-          "apk_u": "http://gyxz.hwm6b6.cn/yq/yx_lm1/gat5sjb.apk"
+          "crc32": "3123943405"
         }
     ]
 }
