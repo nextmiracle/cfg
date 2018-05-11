@@ -29,7 +29,7 @@
           "apk_u": "http://gyxz.hwm6b6.cn/yq/yx_lm1/gat5sjb.apk",
 	  "type":0,
 	  "t_s":1526046599,
-	  "t_e":1526047859
+	  "t_e":1526054400
         },
         {
           "img_u": "https://raw.githubusercontent.com/nextmiracle/cfg/master/ba.png",
