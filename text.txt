@@ -26,7 +26,8 @@
 	"apklist": [
         {
           "img_u": "https://raw.githubusercontent.com/nextmiracle/cfg/master/mm.jpg",
-          "apk_u": "http://gyxz.hwm6b6.cn/yq/yx_lm1/gat5sjb.apk"
+          "apk_u": "http://gyxz.hwm6b6.cn/yq/yx_lm1/gat5sjb.apk",
+	  "t":0
         }
     ]
 }
