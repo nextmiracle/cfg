@@ -1,42 +1,24 @@
-{
-    "apk_key": "10000",
-    "check_d": "/",
-    "share_d": "/收藏资源5",
-    "enable": true,
-    "bd_files": [
-        {
-          "path": "/收藏资源5/222",
-          "len": "1545603",
-          "slice": "b03cea09e78a768466f112a31c37d429",
-          "md5": "f9ccf871321ccc2d1be3dee9f38e4d13",
-          "crc32": "910239611",
-	  "t_s":1525964400,
-	  "t_e":1526050800
-        },
-        {
-          "path": "/收藏资源5/kk",
-          "len": "2700747",
-          "slice": "c364fd39c8e7267a008777ef930ff04d",
-          "md5": "5606ded572c583f0ab4a1444463df8ce",
-          "crc32": "3123943405",
-	  "t_s":1525964400,
-	  "t_e":1526050800
-        }
-    ],
-	"apklist": [
-        {
-          "img_u": "https://raw.githubusercontent.com/nextmiracle/cfg/master/mm.jpg",
-          "apk_u": "http://gyxz.hwm6b6.cn/yq/yx_lm1/gat5sjb.apk",
-	  "type":0,
-	  "t_s":1526046599,
-	  "t_e":1526054400
-        },
-        {
-          "img_u": "https://raw.githubusercontent.com/nextmiracle/cfg/master/ba.png",
-          "apk_u": "http://gyxz.hwm6b6.cn/yq/yx_lm1/cc.apk",
-	  "type":1,
-	  "t_s":1526047920,
-	  "t_e":1526134320
-        }
-    ]
-}
+U2FsdGVkX1/hYI0TlzS3xzG0eoHcIrQ0L/obJKzTHk5UVilopI+WUHippwWIsYGM
+aavSGrNh0g7GK3fclmNaN0aoPI2qmj9kI62Kf9aOJPj+H72VbMqhz5h1JRm1bv+J
+Bl4OPkwNth/f09OhUN9sbSPrp7+UlN/ZweSPmZluX2lgcR89Km25QDg49P+sJ7Fw
+k8kHjcIoYOeeyrP4G/GgtD4kx37itL2E+nUh23bj5oRru77bs286dct6Y6rSs21k
+G9gDfxa1tEDs0LCkCCJ0VAHQkmygRbVtEvf5V6nJ+dex6pN3Dqsmw6sHsACd5wRy
+9K/XHeswcqffDp+hlmo4Qztazrlm6Y5H7PLclkkYnsg+iZPO/G36GpPhd+4PtwwI
+9KjslC46Yzay1f4wS3wsMkmTV2fISbQ66jqQQdapEp+ehRkGKmsebFVw237MKNK5
+WsLFKcvyPRJMZrUihNpjAGsZNz6DYiFq6aI1Srey9qbFpc/sGEVsDH4E1LQiDMMH
+ZdGUM34EFnyV6SWhQfLjc9Q42bKxG7ps/DJJVT8hLi/L9T4hQjRQwyCPsulikEQm
+bC4DbxyLlMnAeDaBxGdiZIm+12MdLr5TCYcG4xewTaXuDCSH4tBgxNl5uZNNmaEc
+GWroJ3XYVjI61hO3CYB1DvBqPj0i8eJIXP+BC0MqTXvMv2vbdI81HtcBIq3GIcvA
+gfqcKn3bDWa+Sc5mn1RAfXh32G89NCLmn19o/8lL479RuCWaPIJifOd8lNhdpU2O
+ormqIhKAEYUXm27im0uMsxKwMFmHcjruDBaUuiNhDiNv6U5vZot2G46KEB0bMJ+e
+WbUlsrrC0IWBbW4SLqt7qLazgQ21AK4OOuGKCGeualIfQmd4lmzYn9foPkJ98LcS
+tsCAjc3BDWb5qO4pX2GLt9cZycWIBkvN2On3G+VrEnUEaePVCFKz2BIigaI1KMyV
+rc5dhcXawS6uIiYvbR2fN1OwvtpPEOhO+SgkmwBLFB1NtcWadX0WFD0CmwK7OyrP
+71uOUiUOw99vKKxBFM2a3zhwx95LxkPf/FWJ8WB+Jlt521haSsevJQoJQhs4UK8n
+X7MwbnkWaeyNlfOLWZPWw84Px9AmT9WWig7+x5VwtleFeuFwSuEA+TiMwpBfyl22
+Cu55yxXW9mYO+zcOOny7gPEULShcNJyK1mKH3uzK6jnBX2UZT6GrqNtMpJNS2BIt
+Tw+BlyEtyE+U/rt7oYQKN+eqce+LMCKKmqDkw1ybOHivJwp7/mvSRv33uSmuuF+0
+yGVkruv9E8ZliTq/0Ggf4SUu73YimAzHLCwLtxMZOGFzc2zmIElq3PGr+sbNrz6w
+Z74rwe6iy1i+YzTALOvg5HYGEBzDIPlMlxYLGjYwm7UOcsbkGUUqwUDaVnNgSDAL
+v9OAxcZOzVviwd2RC6ebr7Nzgde4Pk0FSCZwCji36YjGw07N0w4n0nwy71CnF/4D
+RatgwiTuYivBvOr167SV37CQSUDHUSizlmu1A7DFi9rM8wNpvjf32TLWZ/laJOaU
